@@ -11,6 +11,8 @@
   <a href="https://github.com/reworkd/AgentGPT/blob/master/docs/README.hu-Cs4K1Sr4C.md"><img src="https://img.shields.io/badge/lang-Hungarian-red.svg" alt="Hungarian"></a>
 </p>
 
+
+
 <p align="center">
 <a href="https://agentgpt.reworkd.ai">🔗 Short link</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
